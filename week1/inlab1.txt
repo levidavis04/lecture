@@ -1,0 +1,8 @@
+1. Create a dynamic array of floats, say, 100 of them.
+
+2. Print out the address of each item.
+
+3. Initialize each item sequentially (1,2,3,4...)
+
+4. Print out the sum of the values.
+
