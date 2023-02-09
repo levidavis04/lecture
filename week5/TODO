@@ -1,0 +1,4 @@
+- forEach w/ print, map w/ append ( -> std::vector )
+- pointer review
+- shallow vs deep copy with arrays (p. 380 in book)
+- rule of zero and three (w/ note on five)
